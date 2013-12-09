@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/DeviceConnectState.qml</file>
+        <file>ui/UnlockView.qml</file>
+        <file>ui/widget/ProgressBar.qml</file>
+        <file>ui/TitleBar.qml</file>
+        <file>ui/OpenDebugHelp.qml</file>
+        <file>ui/widget/Button.qml</file>
+        <file>ui/MainWindow.qml</file>
+        <file>ui/Banner.qml</file>
+        <file>ui/ConnectedView.qml</file>
+        <file>ui/DisconnectView.qml</file>
+        <file>ui/StatusBar.qml</file>
+        <file>ui/WindowButton.qml</file>
+        <file>ui/IndicatorCircle.qml</file>
+        <file>ui/Link.qml</file>
+        <file>ui/image/button_close_1.png</file>
+        <file>ui/image/button_close_2.png</file>
+        <file>ui/image/button_min_1.png</file>
+        <file>ui/image/button_min_2.png</file>
+        <file>ui/image/computer.png</file>
+        <file>ui/image/phont_connect_1.png</file>
+        <file>ui/image/phont_connect_2.png</file>
+        <file>ui/image/shadow.png</file>
+        <file>ui/image/logo.png</file>
+        <file>ui/image/setting_debug_mode_4_0.png</file>
+        <file>ui/image/setting_debug_mode_2_3.png</file>
+        <file>ui/image/banner1.png</file>
+        <file>ui/image/setting_debug_mode_4_3.png</file>
+        <file>ui/image/btn_left.png</file>
+        <file>ui/image/btn_right.png</file>
+    </qresource>
+</RCC>
