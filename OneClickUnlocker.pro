@@ -35,6 +35,5 @@ macx {
 
 
 RC_FILE = app.rc
-TRANSLATIONS = language/zh_CN.ts
 
 include(src/unlocker.pri)
