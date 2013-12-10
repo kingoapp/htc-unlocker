@@ -9,9 +9,9 @@ QT       += core gui declarative network
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
 CONFIG(debug, debug|release) {
-TARGET = Unlockerd
+TARGET = HTCUnlockerd
 } else {
-TARGET = Unlocker
+TARGET = HTCUnlocker
 }
 
 INCLUDEPATH += $$PWD/src $$PWD/src/utils
