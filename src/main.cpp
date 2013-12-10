@@ -47,7 +47,7 @@ int main(int argc, char *argv[])
 
     QSettings settings("Resources", QSettings::IniFormat);
     QCoreApplication::setOrganizationName("Kingo");
-    QCoreApplication::setOrganizationDomain(settings.value("Update/Pid", "com.kingoapp.unlocker").toString());
+    QCoreApplication::setOrganizationDomain(settings.value("Update/Pid", "com.kingoapp.unlocker.htc").toString());
     QCoreApplication::setApplicationName("One-Click Unlocker");
     QCoreApplication::setApplicationVersion(settings.value("Application/Version", "0.1").toString());
 

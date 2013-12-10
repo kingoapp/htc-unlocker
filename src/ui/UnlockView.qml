@@ -78,7 +78,7 @@ Rectangle {
     		"imei=" + unlockview.deviceInfo.imei 
     		+ "&sn=" + unlockview.deviceInfo.serialno
     		+ "&token=" + unlockview.token
-    		+ "&key=" + "debug_key"
+    		+ "&key=" + "test_key"
     		);
 	}
 
